@@ -1,0 +1,18 @@
+Package: mlr3changepoint
+Title: Changepoint Detection Learners for mlr3
+Version: 0.0.0.9000
+Authors@R: 
+    person("Mihlali", "Mabaso", , "mihlalidataweb.com", role = c("aut", "cre"))
+Description: Provides mlr3 learners for changepoint detection algorithms
+    including binary segmentation via binsegRcpp.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    binsegRcpp,
+    mlr3,
+    mlr3misc,
+    paradox,
+    R6
