@@ -16,3 +16,5 @@ Imports:
     mlr3misc,
     paradox,
     R6
+URL: https://github.com/Mihlalidataweb/mlr3changepoint
+BugReports: https://github.com/Mihlalidataweb/mlr3changepoint/issues
